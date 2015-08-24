@@ -1,6 +1,5 @@
-/**
-@author scott 
-*/
+package top.itdream.git;
+
 public class Person {
 	private String name;
 	private Integer age;
